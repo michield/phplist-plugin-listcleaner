@@ -2,7 +2,7 @@
 
 /*
  * 
- * unbounce a campaing, commandline only
+ * unbounce a campaign, commandline only
  * 
  * purpose: remove all traces of bounces to a certain campaign
  * 
